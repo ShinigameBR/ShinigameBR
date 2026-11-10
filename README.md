@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋, eu sou o Expedito Hebert</h1>
+<h1 align="left">E aí! 👋 Me chamo Expedito Hebert</h1>
 
 <h3 align="left">Desenvolvedor Fullstack • Brasil 🇧🇷</h3>
 
